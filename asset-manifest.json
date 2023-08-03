@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dc6dd92.css",
+    "main.js": "/static/js/main.694b5f9f.js",
+    "static/media/login.png": "/static/media/login.5775a79dc94c1714b827.png",
+    "static/media/register.png": "/static/media/register.f06c34f940e09c409448.png",
+    "static/media/portrait.jpg": "/static/media/portrait.8363404483ae82fa0a15.jpg",
+    "static/media/legend.png": "/static/media/legend.55d73f41cbc0cedeb0b0.png",
+    "static/media/home.png": "/static/media/home.3011b42143375d8c7184.png",
+    "static/media/recoleta.otf": "/static/media/recoleta.fd9bfd35d1085b5c6511.otf",
+    "static/media/mybooks-library.png": "/static/media/mybooks-library.9058b7bb63aeed2511b9.png",
+    "static/media/comments.png": "/static/media/comments.5bdfb6b8948d447e5ef8.png",
+    "static/media/adelia.ttf": "/static/media/adelia.3433c79c131d0305c3a9.ttf",
+    "static/media/add-book.png": "/static/media/add-book.c066d7019e8bf5d4db35.png",
+    "static/media/schema.png": "/static/media/schema.16e325082307018ff955.png",
+    "static/media/LouisGeorgeCafe.ttf": "/static/media/LouisGeorgeCafe.eacd87871e9a39013626.ttf",
+    "index.html": "/index.html",
+    "main.2dc6dd92.css.map": "/static/css/main.2dc6dd92.css.map",
+    "main.694b5f9f.js.map": "/static/js/main.694b5f9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc6dd92.css",
+    "static/js/main.694b5f9f.js"
+  ]
+}
