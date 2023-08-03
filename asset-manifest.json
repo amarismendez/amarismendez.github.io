@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.58186354.css",
-    "main.js": "/static/js/main.7d935bf1.js",
+    "main.js": "/static/js/main.91bde26b.js",
     "static/media/login.png": "/static/media/login.5775a79dc94c1714b827.png",
     "static/media/register.png": "/static/media/register.f06c34f940e09c409448.png",
-    "static/media/portrait.jpg": "/static/media/portrait.8363404483ae82fa0a15.jpg",
+    "static/media/portrait.jpg": "/static/media/portrait.2e146bfcbede6bdeec6a.jpg",
     "static/media/legend.png": "/static/media/legend.55d73f41cbc0cedeb0b0.png",
     "static/media/home.png": "/static/media/home.3011b42143375d8c7184.png",
     "static/media/recoleta.otf": "/static/media/recoleta.fd9bfd35d1085b5c6511.otf",
@@ -16,10 +16,10 @@
     "static/media/LouisGeorgeCafe.ttf": "/static/media/LouisGeorgeCafe.eacd87871e9a39013626.ttf",
     "index.html": "/index.html",
     "main.58186354.css.map": "/static/css/main.58186354.css.map",
-    "main.7d935bf1.js.map": "/static/js/main.7d935bf1.js.map"
+    "main.91bde26b.js.map": "/static/js/main.91bde26b.js.map"
   },
   "entrypoints": [
     "static/css/main.58186354.css",
-    "static/js/main.7d935bf1.js"
+    "static/js/main.91bde26b.js"
   ]
 }
